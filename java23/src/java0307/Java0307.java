@@ -1,4 +1,4 @@
-package java2023;
+package java0307;
 
 public class Java0307 {
     public static void main(String[] args) {

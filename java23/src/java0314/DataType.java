@@ -27,6 +27,5 @@ public class DataType {
 
         String str = null;
 
-        System.out.println("s");
     }
 }

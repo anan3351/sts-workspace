@@ -9,9 +9,9 @@ public class Book {
       public Book(){
           this("", "홍길동");
       }
-    public Book(String title) {
-        this(title, "작가미상");
-    }
+      public Book(String title) {
+          this(title, "작가미상");
+      }
       public Book(String title, String author){
           this.title = title;
           this.author = author;

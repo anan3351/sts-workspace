@@ -1,7 +1,7 @@
 package java0314;
 
 public class First {
-    public static int sum(int n, int m) { //바로 사용하기 위해 static 선언
+    public static int sum(int n, int m) { //스태틱 메서드. -> 객체생성없이 메서드 직접호출 가능
         int s = n+m;
         return s;
     }

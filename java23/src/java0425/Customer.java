@@ -1,4 +1,4 @@
-package java0411.inher;
+package java0425;
 
 public class Customer {
     private int customerId;
@@ -15,7 +15,7 @@ public class Customer {
     public Customer(int customerId, String customerName){
         this.customerId = customerId;
         this.customerName = customerName;
-        this.customerGrade = "SILVER";
+        customerGrade = "SILVER";
         bonusRatio = 0.01;
     }
     public int calPrice(int price){
